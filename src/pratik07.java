@@ -7,7 +7,7 @@ public class pratik07 {
         //1-10 arasi ssatin aldiysa %10,
         //10-50 arasi satin aldiysa %20,
         //50 üstü satin aldiysa %25 indirim yapalim.
-        //adskdkdalfjsdlklgfs
+
 
 
         Scanner input = new Scanner(System.in);
